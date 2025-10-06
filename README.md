@@ -23,4 +23,4 @@ Reference inspiration: `https://python-patterns.guide/`
 ## License
 
 - Code: MIT — see `LICENSE`.
-- Documentation (files under `docs/`): CC BY 4.0 — see `LICENSE-DOCS` and `https://creativecommons.org/licenses/by/4.0/`.
+- Documentation (files under `docs/`): CC BY 4.0 — see `docs/LICENSE` and `https://creativecommons.org/licenses/by/4.0/`.
