@@ -36,6 +36,7 @@ Problem: We log messages either to the console or to a file, with optional JSON 
 
 Solution: Compose a `Logger` with a `Sink` (where to write) and a `Formatter` (how to format).
 
+{% raw %}
 ```python
 from abc import ABC, abstractmethod
 from datetime import datetime
@@ -92,6 +93,7 @@ console_json.log("INFO", "hello")
 file_simple = Logger(FileSink("app.log"), SimpleFormatter())
 file_simple.log("ERROR", "something happened")
 ```
+{% endraw %}
 
 Thinking checklist:
 
