@@ -1,3 +1,7 @@
+---
+title: Docs Index
+---
+
 # Python Design Patterns (Beginner‑friendly Guide)
 
 This repository organizes key Python design patterns into small, focused markdown pages. Each page answers the same five questions to help you decide quickly:
