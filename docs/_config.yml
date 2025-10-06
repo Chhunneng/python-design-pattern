@@ -1,0 +1,6 @@
+title: Python Design Patterns
+description: Beginner-friendly notes and examples
+theme: jekyll-theme-cayman
+markdown: kramdown
+plugins:
+  - jekyll-seo-tag
